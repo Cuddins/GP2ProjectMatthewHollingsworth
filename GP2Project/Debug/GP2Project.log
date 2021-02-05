@@ -1,0 +1,2 @@
+﻿  stb_image.c
+LINK : fatal error LNK1104: cannot open file 'OpenAL32lib.obj'
